@@ -28,7 +28,7 @@ import java.util.*
  */
 class BookFragment : Fragment() {
     companion object {
-        val AIM_URL = "http://ishuhui.net/ComicBookList/"
+        val AIM_URL = "http://ishuhui.com/cartoon/"
     }
 
     var mData = ArrayList<Cover>()
